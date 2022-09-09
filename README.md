@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://komarev.com/ghpvc/?username=Levi2288&color=yellow)
 * ✉️  You can contact me on discord: [Levi2288#0619](mailto:)
 * 🧠  I'm learning atm C++, Python and SourcePawn
-* :sunglasses:  Expert in Source Server hosting
+* :sunglasses:  Expert in Source Server hosting, 4+ year experience 
 
 ### Skills
 
