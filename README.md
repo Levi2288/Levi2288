@@ -5,6 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me on discord: [Levi2288#0619](mailto:)
 * 🧠  I'm learning atm C++, Python and SourcePawn
 * :sunglasses:  Expert in Source Server hosting, 4+ year experience 
+* :star: Stars are always appreciated.
 
 ### Skills
 
@@ -26,6 +27,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://github.com/Levi2288" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi2288&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
+
 
 <a href="https://www.buymeacoffee.com/Levi2288"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
