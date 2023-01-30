@@ -14,15 +14,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
-### Socials
+<!--- ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Levi2288#0619" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Levi2288" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Levi2288#0619" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Levi2288" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p> --->
 
 ### Badges
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/54726665/215538229-6bc5e443-63b7-4840-9c82-b8855cc1baf5.png" width="56" height="56" alt="Stars" /></a>
 
-<b>My GitHub Stats</b>
+
+
+### Activity
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/775298007742545920)](https://discord.com/users/775298007742545920)
+
+### My GitHub Stats
 
 <a href="http://www.github.com/Levi2288"><img src="https://github-readme-stats.vercel.app/api?username=Levi2288&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Levi2288's GitHub stats" /></a>
+
 
 <a href="https://github.com/Levi2288" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi2288&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
