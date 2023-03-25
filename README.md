@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Levi2288 
 ================================================================================================================================
 ![](https://komarev.com/ghpvc/?username=Levi2288&color=yellow)
-* ✉️  You can contact me on discord if its not Akira related : [Levi2288#0619](mailto:)
+* ✉️  You can contact me on discord if its not Akira related : [Levi2288#2288](mailto:)
 * 🧠  I'm learning atm C++, Python and SourcePawn
 * :sunglasses:  Expert in Source Server hosting, 4+ year experience 
 * :star: Stars are always appreciated.
