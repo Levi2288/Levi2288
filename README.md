@@ -22,14 +22,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <a href="https://discord.com/users/Levi2288#0619" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Levi2288" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p> --->
 
 ### Badges
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/54726665/215538229-6bc5e443-63b7-4840-9c82-b8855cc1baf5.png" width="56" height="56" alt="Stars" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="56" height="56" alt="Stars" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="56" height="56" alt="Stars" /></a>
+<img src="https://user-images.githubusercontent.com/54726665/215538229-6bc5e443-63b7-4840-9c82-b8855cc1baf5.png" width="56" height="56" alt="Stars" /></a>
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="56" height="56" alt="Stars" /></a>
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="56" height="56" alt="Stars" /></a>
 
 ### Certifications
 
-<img src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png"  width="80" height="80" alt="AWS Certification Badge" />
-<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"  width="80" height="80" alt="AWS Certification Badge" />
+<img src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png"  width="80" height="80" alt="AWS Certification Badge"/></a>
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"  width="80" height="80" alt="AWS Certification Badge"/></a>
 
 
 
