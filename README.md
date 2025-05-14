@@ -29,6 +29,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Certifications
 
 <img src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png"  width="80" height="80" alt="AWS Certification Badge" />
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"  width="80" height="80" alt="AWS Certification Badge" />
+
+
+
 
 
 
